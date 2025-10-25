@@ -13,7 +13,7 @@ abstract: >-
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Zihan Niu 
-  - Menghao Zhang
+  - Menghao Zhang#
   - Jue Zhang
   - Renjie Xie
   - Yuan Yang
