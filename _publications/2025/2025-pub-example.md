@@ -20,6 +20,6 @@ authors:
   - Xiaohe Hu
 links:
   Paper: https://ieeexplore.ieee.org/document/11192376
-  Code: https://github.com/luost26/bubble-visual-hash
+  Code: https://github.com/Networked-System-and-Security-Group/Themis
 
 ---
