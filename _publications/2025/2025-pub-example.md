@@ -2,7 +2,7 @@
 title:          "THEMIS: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks"
 date:           2025-09-22 00:00:00 +0800
 selected:       true
-pub:            "In the 33rd IEEE International Conference on Network Protocols (ICNP), Seoul, South Korea, September 22-25, 2025 (CCF-B/TH-CPL-A, full paper acceptance ratio: 60/238=25.2%)"
+pub:            "In the 33rd IEEE International Conference on Network Protocols (<strong>ICNP</strong>), Seoul, South Korea, September 22-25, 2025 (CCF-B/TH-CPL-A, full paper acceptance ratio: 60/238=25.2%)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
