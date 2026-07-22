@@ -10,8 +10,8 @@ pub_date:       "2026"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Jue Zhang
-  - Menghao Zhang
-  - Zihan Niu
+  - Menghao Zhang#
+  - <strong>Zihan Niu</strong>
   - Bo Peng
   - Shucan Yang
   - Xiaohe Hu

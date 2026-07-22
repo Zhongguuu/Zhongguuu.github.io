@@ -9,7 +9,7 @@ pub:            "In the 33rd IEEE International Conference on Network Protocols 
 pub_date:       "2025"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Zihan Niu 
+  - <strong>Zihan Niu </strong>
   - Menghao Zhang#
   - Jue Zhang
   - Renjie Xie
